@@ -1,7 +1,3 @@
-# 교육이수 기술 내역서
-![Image](https://github.com/user-attachments/assets/ca5f2efb-fa82-4490-b0a2-3af832f27f25)
-
-
 # 📚 SKIL
  ### Programming
 <div>

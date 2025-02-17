@@ -1,3 +1,7 @@
+# LINK
+### 공부일지 <a href="https://github.com/minjunK94/ai"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 1st PERSONAL PROJECT <a href="https://github.com/minjunK94/project"><img src="https://img.shields.io/badge/PROJ[해양생물 이미지 학습]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 # 📚 SKIL
  ### Programming
 <div>
